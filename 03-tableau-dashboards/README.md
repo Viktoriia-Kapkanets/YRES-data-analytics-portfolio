@@ -8,9 +8,9 @@
 
 These are part of a recurring weekly reporting series. Sample weeks are published on Tableau Public:
 
-📊 **[Volunteer Signup Analysis](https://public.tableau.com/app/profile/viktoriia.kapkanets/vizzes)** — multi-dimensional view across geography, day of week, time of day, placement type, age range, and referral source.
+📊 **[Volunteer Signup Analysis](https://public.tableau.com/app/profile/viktoriia.kapkanets/viz/2026-02-13Weekly_sing_up_report/Totalsign-ups)** — multi-dimensional view across geography, day of week, time of day, placement type, age range, and referral source.
 
-📊 **[1:1 Coaching Engagement Report](https://public.tableau.com/app/profile/viktoriia.kapkanets/vizzes)** — daily session tracking, weekly trends, running totals, and cancellation breakdowns across BC/AB and ON Volunteer Success Programs.
+📊 **[1:1 Coaching Engagement Report](https://public.tableau.com/app/profile/viktoriia.kapkanets/viz/Weekly11coachingreportFeb22-28/Byday)** — daily session tracking, weekly trends, running totals, and cancellation breakdowns across BC/AB and ON Volunteer Success Programs.
 
 ---
 
