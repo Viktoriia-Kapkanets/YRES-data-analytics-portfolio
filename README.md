@@ -34,12 +34,12 @@ The deliverables for YRES are the Tableau workbooks. The Power BI and Looker Stu
 
 | # | Project | Tool | Status |
 |---|---------|------|--------|
-| 1 | Weekly Signup Report — operational | Power BI | ✅ [See project →](./01-power-bi-weekly-signup) |
-| 2 | 1:1 Coaching Engagement Report | Power BI | _Coming soon_ |
+| 1 | Weekly Signup Report | Power BI | ✅ [See project →](./01-power-bi-weekly-signup) |
+| 2 | 1:1 Coaching Engagement Report | Power BI | ✅ [See project →](./02-power-bi-coaching) |
 | 3 | Signup & Coaching Analysis | Tableau | ✅ [See project →](./03-tableau-dashboards) |
 | 4 | Weekly Signup Report | Looker Studio | ✅ [See project →](./04-looker-studio) |
 
-Power BI workbooks are being prepared for publication; live `.pbix` access can be arranged on request during interviews.
+Live `.pbix` walkthroughs available on request during interviews.
 
 ---
 
@@ -59,7 +59,7 @@ Power BI workbooks are being prepared for publication; live `.pbix` access can b
 
 📊 **[Looker Studio Report](https://datastudio.google.com/reporting/1f9f8e54-044c-40dc-aa7c-8cb35762da9e)** — Weekly Signup Report (live, browser-based)
 
-📋 Power BI dashboards — screenshots and walkthroughs coming soon.
+📋 Power BI dashboards — screenshots and walkthroughs in [Signup](./01-power-bi-weekly-signup) and [Coaching](./02-power-bi-coaching) project folders. Live `.pbix` walkthrough available on request.
 
 ---
 
