@@ -42,7 +42,7 @@ maps with custom geographic role assignments, color-coding by province, etc.]
 
 ## Screenshots
 
-[2-3 of the best dashboard tabs as PNG]
+[Dashboard overview](/screenshots/01_signup-overview.png)
 
 ## Data and privacy
 
