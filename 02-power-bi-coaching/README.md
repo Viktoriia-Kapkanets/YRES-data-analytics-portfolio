@@ -2,7 +2,7 @@
 
 > Power BI dashboard analyzing 1:1 coaching engagement across YRES's BC/AB and ON Volunteer Success Programs, with running totals, weekly trends, and cancellation analysis spanning over a year of data (March 2025 onward).
 
-**Part of a [multi-tool case study](../).**
+**Part of a [multi-tool case study](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio)**
 
 ---
 
