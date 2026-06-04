@@ -2,7 +2,7 @@
 
 > Weekly signup analysis built in Looker Studio using YRES data. A self-directed exploration of Looker Studio's strengths — lightweight, link-shareable reporting with live Google Sheets integration — on real production data with permission to publish.
 
-**Part of a [multi-tool case study](../).**
+**Part of a [multi-tool case study](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio)**
 
 ---
 
