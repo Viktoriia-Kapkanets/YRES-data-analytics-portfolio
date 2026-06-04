@@ -11,7 +11,7 @@ published on Tableau Public:
 📊 **[Volunteer Signup Analysis](https://public.tableau.com/app/profile/viktoriia.kapkanets/viz/2026-02-13Weekly_sing_up_report/Totalsign-ups)** — multi-dimensional view 
 across geography, day of week, time, placement type, age range, and referral
 
-📊 **[1:1 Coaching Engagement Report]([link-to-tableau](https://public.tableau.com/app/profile/viktoriia.kapkanets/viz/Weekly11coachingreportFeb22-28/Byday))** — daily session 
+📊 **[1:1 Coaching Engagement Report](https://public.tableau.com/app/profile/viktoriia.kapkanets/viz/Weekly11coachingreportFeb22-28/Byday)** — daily session 
 tracking, weekly trends, running totals, and cancellation breakdowns 
 across BC/AB and ON Volunteer Success Programs
 
