@@ -2,6 +2,21 @@
 
 > Interactive Tableau dashboards built for YRES, a Canadian youth services nonprofit, analyzing volunteer signup patterns and 1:1 coaching engagement across BC/AB and ON regional programs.
 
+**Part of a [multi-tool case study](../) — these are the deliverables built for YRES's weekly reporting workflow.**
+
+---
+
+## Why Tableau for this project
+
+Tableau is the platform the YRES analytics team works in. When I pick up a weekly reporting task, Tableau is the default delivery tool, and the dashboards published here are the actual deliverables I produced for the organization between February 2026 and the present.
+
+Tableau strengths leveraged here:
+
+- **Multi-tab dashboard architecture** for navigating between analytical views in one workbook
+- **Geographic mapping** with custom Canadian province/city role assignments
+- **Calculated fields** for derived segmentation
+- **Cross-tab filtering** so a selection in one view propagates across the dashboard
+
 ---
 
 ## Live dashboards
@@ -24,12 +39,12 @@ These are part of a recurring weekly reporting series. Sample weeks are publishe
 
 ## Approach
 
-Built end-to-end in Tableau Desktop with the following design decisions:
+Built end-to-end in Tableau Desktop:
 
-- **Multi-tab dashboard architecture** — eight analytical views within a single workbook (Total sign-ups, By province, By city, By day of week, By time of day, By placement type, By age range, By referral). This allows program coordinators to navigate from high-level overview to detailed segmentation without switching files.
-- **Geographic mapping** — custom Canadian province and city visualization using Tableau's geographic role assignments, with color-coding by province to distinguish regional patterns (BC/AB vs ON).
-- **Calculated fields** — derived dimensions to support deeper segmentation analysis (e.g., grouping referral sources into categories, bucketing time-of-day).
-- **Interactive filtering** — slicers and parameter actions that allow filtering across multiple views simultaneously, supporting both program-level and cross-program analysis.
+- **Multi-tab dashboard architecture** — eight analytical views within a single workbook (Total sign-ups, By province, By city, By day of week, By time of day, By placement type, By age range, By referral). Coordinators navigate from high-level overview to detailed segmentation without switching files.
+- **Geographic mapping** — Canadian province and city visualization using Tableau's geographic role assignments, with color-coding by province to distinguish regional patterns (BC/AB vs ON).
+- **Calculated fields** — derived dimensions to support deeper segmentation analysis (grouping referral sources into categories, bucketing time-of-day).
+- **Interactive filtering** — slicers and parameter actions that filter across multiple views simultaneously.
 
 ---
 
@@ -79,7 +94,7 @@ Tableau Desktop · Tableau Public · Calculated Fields · Geographic Role Assign
 
 ## Data and privacy
 
-Published with permission from YRES. No participant names, contact information, or identifying details are visible in any visualization. Data has been reviewed to ensure no individual can be identified through the published dashboards.
+Published with permission from YRES. No participant names, contact information, or identifying details are visible in any visualization.
 
 ---
 
