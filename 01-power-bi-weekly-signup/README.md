@@ -2,7 +2,7 @@
 
 > Power BI dashboard analyzing weekly volunteer signups for YRES, with DAX calculated columns for time-based segmentation and stacked column charts for province-level breakdowns.
 
-**Part of a [multi-tool case study](../).**
+**Part of a [multi-tool case study](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio)**
 
 ---
 
