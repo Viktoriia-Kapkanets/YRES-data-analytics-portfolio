@@ -34,7 +34,7 @@ The deliverables for YRES are the Tableau workbooks. The Power BI and Looker Stu
 
 | # | Project | Tool | Status |
 |---|---------|------|--------|
-| 1 | Weekly Signup Report | Power BI | _Coming soon_ |
+| 1 | Weekly Signup Report — operational | Power BI | ✅ [See project →](./01-power-bi-weekly-signup) |
 | 2 | 1:1 Coaching Engagement Report | Power BI | _Coming soon_ |
 | 3 | Signup & Coaching Analysis | Tableau | ✅ [See project →](./03-tableau-dashboards) |
 | 4 | Weekly Signup Report | Looker Studio | ✅ [See project →](./04-looker-studio) |
