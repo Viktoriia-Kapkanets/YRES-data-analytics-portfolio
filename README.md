@@ -46,7 +46,6 @@ Live `.pbix` walkthroughs available on request during interviews.
 ## Technical highlights
 
 - **DAX measures** — Running Total for cumulative engagement, week-over-week comparisons, segmentation logic across event types and canceler categories
-- **Power Query (M)** — cleaning and joining Calendly CSV exports, Excel workbooks, and program records into a unified model
 - **Tableau** — geographic mapping with custom role assignments, calculated fields, multi-tab dashboards with cross-tab filtering
 - **Looker Studio** — live Google Sheets integration, browser-based access
 - **SQL & Excel** — upstream data cleaning and reshaping before BI tool ingestion
