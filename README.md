@@ -1,16 +1,32 @@
 # YRES Data Analytics Portfolio
 
-> End-to-end analytics work for **YRES**, a Canadian youth services nonprofit running volunteer engagement programs across British Columbia, Alberta, and Ontario.
+> Volunteer data analytics work for **YRES**, a Canadian youth services nonprofit operating across British Columbia, Alberta, and Ontario. This portfolio shows weekly reporting on volunteer signups and 1:1 coaching engagement, implemented across three BI tools.
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=googleanalytics&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=googleanalytics&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811) ![Power Query](https://img.shields.io/badge/Power_Query-742774) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 ---
 
 ## About this work
 
-I built this analytics suite as a volunteer data analyst for YRES starting in 2025. The goal was to replace manual weekly reporting with automated dashboards that program coordinators can self-serve, and to provide deeper analytical views of volunteer signup patterns, coaching engagement, and referral channel effectiveness.
+YRES distributes weekly analytics tasks to volunteer analysts, who pick up assignments and choose their own visualization tool to deliver them. I've contributed to weekly signup and coaching engagement reporting from February 2026 onward, completing reports across several different weeks during the period.
 
-The portfolio demonstrates end-to-end work in three BI tools, each chosen deliberately for the type of analysis it supports best — operational deep-dive reports in Power BI, interactive multi-dimensional exploration in Tableau, and shareable stakeholder summaries in Looker Studio.
+Tableau is the team's primary platform — that is where most of my deliverables for YRES sit. After earning my **Microsoft PL-300 certification**, I rebuilt parts of the analysis in Power BI to strengthen my certified skill stack on real-world data, and explored Looker Studio with the same dataset to round out my BI tool fluency.
+
+All three implementations use the same business questions and the same data source (Calendly + Google Sheets exports from YRES), with permission to publish.
+
+---
+
+## Why three tools — honest framing
+
+This is not three identical dashboards. Each implementation focuses on different strengths:
+
+| Tool | Built for | Demonstrates |
+|------|-----------|--------------|
+| **Tableau** | YRES weekly reporting workflow | Multi-tab dashboard architecture, geographic mapping, calculated fields, cross-tab filtering |
+| **Power BI** | Self-directed deepening of PL-300 skills on production data | DAX measures (running totals, week-over-week), Power Query transformations, operational reporting layout |
+| **Looker Studio** | Exploring lightweight, link-shareable reporting with the same source data | Google Sheets live connection, browser-only access, no-license stakeholder views |
+
+The deliverables for YRES are the Tableau workbooks. The Power BI and Looker Studio implementations are self-directed extensions using the same data with permission — designed to demonstrate that I can take one analytical problem and adapt it to whichever BI tool an employer uses.
 
 ---
 
@@ -21,17 +37,19 @@ The portfolio demonstrates end-to-end work in three BI tools, each chosen delibe
 | 1 | Weekly Signup Report | Power BI | _Coming soon_ |
 | 2 | 1:1 Coaching Engagement Report | Power BI | _Coming soon_ |
 | 3 | Signup & Coaching Analysis | Tableau | ✅ [See project →](./03-tableau-dashboards) |
-| 4 | Engagement Summary | Looker Studio | _Coming soon_ |
+| 4 | Weekly Signup Report | Looker Studio | ✅ [See project →](./04-looker-studio) |
+
+Power BI workbooks are being prepared for publication; live `.pbix` access can be arranged on request during interviews.
 
 ---
 
-## Key technical highlights
+## Technical highlights
 
-- **DAX measures** — Running Total for cumulative trend analysis, week-over-week comparisons, segmentation logic across event types and canceler categories
+- **DAX measures** — Running Total for cumulative engagement, week-over-week comparisons, segmentation logic across event types and canceler categories
 - **Power Query (M)** — cleaning and joining Calendly CSV exports, Excel workbooks, and program records into a unified model
-- **Tableau** — geographic mapping, calculated fields, multi-tab interactive dashboards with cross-tab filtering
-- **Looker Studio** — cross-source aggregation and shareable stakeholder views without requiring Power BI licenses
-- **SQL & Excel** — upstream data cleaning, validation, and reshaping before BI tool ingestion
+- **Tableau** — geographic mapping with custom role assignments, calculated fields, multi-tab dashboards with cross-tab filtering
+- **Looker Studio** — live Google Sheets integration, browser-based access
+- **SQL & Excel** — upstream data cleaning and reshaping before BI tool ingestion
 
 ---
 
@@ -39,18 +57,20 @@ The portfolio demonstrates end-to-end work in three BI tools, each chosen delibe
 
 📊 **[Tableau Public Profile](https://public.tableau.com/app/profile/viktoriia.kapkanets)** — Volunteer Signup Analysis and 1:1 Coaching Engagement Report (interactive)
 
-📋 Power BI and Looker Studio dashboards — screenshots and walkthroughs available in each project folder. Live access can be arranged on request.
+📊 **[Looker Studio Report](https://datastudio.google.com/reporting/1f9f8e54-044c-40dc-aa7c-8cb35762da9e)** — Weekly Signup Report (live, browser-based)
+
+📋 Power BI dashboards — screenshots and walkthroughs coming soon.
 
 ---
 
 ## Data and privacy
 
-All work published with permission from YRES. Participant names, contact information, and other personally identifying details are excluded from all visualizations. Source data files (.pbix, CSV exports) are not published in this repository — only visual representations of the analysis.
+Published with permission from YRES. Participant names, contact information, and other personally identifying details are excluded from every visualization. Source data files (`.pbix`, CSV exports) are not published in this repository — only visual representations of the analysis.
 
 ---
 
 ## About me
 
-Microsoft Certified Power BI Data Analyst (PL-300), based in BC, Canada. Open to data analyst roles — Remote (Canada), Hybrid, or On-site in BC Lower Mainland.
+Microsoft Certified Power BI Data Analyst (**PL-300**), based in BC, Canada. Open to data analyst roles — Remote (Canada), Hybrid, or On-site in BC Lower Mainland.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/viktoriia-kapkanets/) · [Tableau Public](https://public.tableau.com/app/profile/viktoriia.kapkanets) · [GitHub](https://github.com/Viktoriia-Kapkanets)
