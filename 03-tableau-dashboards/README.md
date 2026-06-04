@@ -2,7 +2,7 @@
 
 > Interactive Tableau dashboards built for YRES, a Canadian youth services nonprofit, analyzing volunteer signup patterns and 1:1 coaching engagement across BC/AB and ON regional programs.
 
-**Part of a [multi-tool case study](../) — these are the deliverables built for YRES's weekly reporting workflow.**
+**Part of a [multi-tool case study](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio)**
 
 ---
 
